@@ -1,0 +1,7 @@
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\obj\Debug\Запись в новый массив.csprojAssemblyReference.cache
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\obj\Debug\Запись в новый массив.csproj.CoreCompileInputs.cache
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\bin\Debug\Запись в новый массив.exe.config
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\bin\Debug\Запись в новый массив.exe
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\bin\Debug\Запись в новый массив.pdb
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\obj\Debug\Запись в новый массив.exe
+D:\Users\User\source\repos\Запись в новый массив\Запись в новый массив\obj\Debug\Запись в новый массив.pdb
